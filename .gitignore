@@ -1,0 +1,21 @@
+# Python
+.env
+**/.env
+venv/
+**/venv/
+__pycache__/
+*.pyc
+
+# RAG index (can be regenerated)
+backend/faiss_index/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+**/build/
+
+# IDE
+.vscode/
+.idea/
